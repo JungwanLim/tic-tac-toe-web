@@ -6,6 +6,6 @@ html, css, javaScript로 간단한 틱 택 토 프로그램을 만들어 봤습�
 
 처음 만들어본 Web프로그램이기도 합니다.
 
-![시작화면](./image/img1.png)  
-![Player 'X'가 승리했을 때](./image/img2.png)  
-![비겼을 때](./image/img3.png)
+![img1](./image/img1.png)  
+![img2](./image/img2.png)  
+![img3](./image/img3.png)
