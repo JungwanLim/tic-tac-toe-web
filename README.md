@@ -1,4 +1,4 @@
-#Tic Tac Toe
+# Tic Tac Toe
 
 html, css, javaScript로 간단한 틱 택 토 프로그램을 만들어 봤습니다.
 
